@@ -8,5 +8,5 @@ readln(b);
 c:=a+b;
 writeln('Сумма = ',c);
 d:=a*b;
-writeln('Произведение = ',b);
+writeln('Произведение = ',d);
 end.
